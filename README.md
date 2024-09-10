@@ -1,6 +1,10 @@
 # 🌌 Orion DAO: **Iniciando uma Nova Era de Inovação Científica e Tecnológica**
 A **Orion DAO** é uma organização inovadora, projetada para transformar o cenário da ciência e tecnologia através da colaboração global e descentralizada. Atuamos como uma ponte entre cientistas visionários, investidores estratégicos e desenvolvedores de ponta, com o objetivo de acelerar o progresso humano por meio de ideias disruptivas e projetos de impacto mundial.
 
+<div align="center">
+  <img src="./orion-dao.jpeg" alt="Orion Banner">
+</div>
+
 ## 🚀 Nossa Missão
 A missão da **Orion DAO** é clara: **catalisar o avanço científico e tecnológico**, fornecendo um ambiente colaborativo onde projetos de vanguarda possam ser financiados, desenvolvidos e implementados. Utilizamos a tecnologia blockchain para conectar mentes brilhantes de diversas disciplinas, garantindo que a inovação seja compartilhada de forma aberta e acessível, gerando impacto tanto social quanto financeiro.
 
