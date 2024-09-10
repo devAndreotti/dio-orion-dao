@@ -40,3 +40,6 @@ Esse projeto tem o potencial de salvar vidas e melhorar a qualidade de vida de m
 
 ## 🌱 Nosso Impacto no Futuro
 A **Orion DAO** está comprometida em financiar e desenvolver projetos que podem transformar a humanidade. Seja em biotecnologia, inteligência artificial, energias renováveis ou outras áreas essenciais, proporcionamos uma plataforma onde cientistas, desenvolvedores e investidores podem colaborar para criar soluções inovadoras que moldarão o futuro.
+
+## 📝 Nota
+Este projeto é para fins educacionais, feito para o desafio da **DIO** em parceria com a **Binance**.
