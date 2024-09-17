@@ -1,4 +1,4 @@
-# 🌌 Orion DAO: **Revolucionando a Ciência e Tecnológica**
+# 🌌 Orion DAO: **Revolucionando a Ciência e a Tecnologia**
 A **Orion DAO** é uma organização inovadora, projetada para transformar o cenário da ciência e tecnologia através da colaboração global e descentralizada. Atuamos como uma ponte entre cientistas visionários, investidores estratégicos e desenvolvedores de ponta, com o objetivo de acelerar o progresso humano por meio de ideias disruptivas e projetos de impacto mundial.
 
 <div align="center">
